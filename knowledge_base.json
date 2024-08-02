@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "hey",
+      "answer": "hi"
+    },
+    {
+      "question": "hey mate",
+      "answer": "hi"
+    },
+    {
+      "question": "how are you",
+      "answer": "i am fine, what about you?"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "hi bro",
+      "answer": "hi"
+    },
+    {
+      "question": "good morning",
+      "answer": "good morning"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "hero"
+    },
+    {
+      "question": "what can you do?",
+      "answer": "I'm an employee assistant bot \ni have various abilities like \n\n\t leave application \n\t complaint registration "
+    },
+    {
+      "question": "leave application",
+      "answer": "which date?"
+    },
+    {
+      "question": "leave",
+      "answer": "which date?"
+    },
+    {
+      "question": "20-09-23",
+      "answer": "leave granted"
+    },
+    {
+      "question": "complaint registration",
+      "answer": "tell me your complaint"
+    },
+    {
+      "question": "vhen",
+      "answer": "hen"
+    },
+    {
+      "question": "complaint",
+      "answer": "tell me your complain"
+    },
+    {
+      "question": "good evening",
+      "answer": "good evening"
+    },
+    {
+      "question": "thanks",
+      "answer": "your welcome"
+    },
+    {
+      "question": "good afternoon",
+      "answer": "good afternoon"
+    },
+    {
+      "question": "wazzup",
+      "answer": "nm wby?"
+    },
+    {
+      "question": "cool",
+      "answer": "cool"
+    },
+    {
+      "question": "what do u eat?",
+      "answer": "i charge using electricity"
+    },
+    {
+      "question": "are u fast",
+      "answer": "i am very fast"
+    },
+    {
+      "question": "fine",
+      "answer": "sh"
+    },
+    {
+      "question": "bye",
+      "answer": "bye"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    }
+  ]
+}
